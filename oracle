@@ -1,8 +1,8 @@
 select  dept id deptname from dept
 
 1 Acc
-2 cash
+2 casher
 3 checkclearence
-4 It
-5 DBA
+4 It-technical
+5 DBA-devloper
 
