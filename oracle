@@ -1,0 +1,8 @@
+select  dept id deptname from dept
+
+1 Acc
+2 cash
+3 checkclearence
+4 It
+5 DBA
+
